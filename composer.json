@@ -29,7 +29,7 @@
 		"symfony/dependency-injection": "~2.0",
 		"symfony/event-dispatcher": "~2.0",
 		"symfony/translation": "~2.0",
-		"symfony/yaml": "~2.0",
+        "symfony/yaml": "~2.1|~3.0|~4.0",
 		"symfony/finder": "~2.0",
 		"silverstripe/testsession": "*",
 		"silverstripe/framework": "~3.1"
